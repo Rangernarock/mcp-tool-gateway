@@ -285,15 +285,6 @@ mcp-tool-gateway/
 - [ERC-8004 Attestations](https://eips.ethereum.org/EIPS/eip-8004)
 
 ---
-## Like What You See?
-If this project saves you time, makes your agents richer, or just gives you something cool to show your boss, consider dropping a tip.
-Blockchain	Address
-EVM (ETH/Base/Polygon/Arb/OP/Linea/BNB)	[0x6AD3e87b0c8c39EBE99Cc172Ed187560bfd288dc]    
-Bitcoin	[bc1q663xltcjkz9ms5gzdtatcjx78qsf4wqf9jcg56]    
-Solana	[3Xha9PLWQdifcRRCZTy6Z8Ubhh2V8jEuxZ4p2hQ8NpUF]    
-Tron	[TRuCSF74aozEwXK9MZDfZExgzNNfyx2bjw]    
-
----
 ## License
 
 MIT
